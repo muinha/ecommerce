@@ -163,6 +163,6 @@ $app->get("/login", function(){
 
     $page->setTpl("login");
 
-});;
+});
 
 ?>
