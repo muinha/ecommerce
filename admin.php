@@ -20,7 +20,7 @@ $app->get('/admin/login', function() {
         "footer"=>false
     ]);
 
-    $page->setTpl("login");
+    $page->setTpl("adminlogin");
     
 });
 
